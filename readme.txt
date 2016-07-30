@@ -10,3 +10,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 TEST no fast-forward.
+I am working on an important part of this project.
